@@ -60,7 +60,7 @@ yarn dev
 
 # :bug: Issues
 
-Feel free to **file a new issue** with a respective title and description on the [Ignite Feed](https://github.com/lzhudson/ignite-timer/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**! Have a look at our [contribution guidelines](https://github.com/lzhudson/ignite-timer/blob/main/CONTRIBUTING.md) to find out about the coding standards.
+Feel free to **file a new issue** with a respective title and description on the [Ignite TImer](https://github.com/lzhudson/ignite-timer/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**! Have a look at our [contribution guidelines](https://github.com/lzhudson/ignite-timer/blob/main/CONTRIBUTING.md) to find out about the coding standards.
 
 # :tada: Contributing
 
